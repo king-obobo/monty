@@ -1,1 +1,2 @@
-Repo for the monty tasks
+# monty
+C - Stacks, Queues - LIFO, FIFO
